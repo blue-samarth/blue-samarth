@@ -64,7 +64,7 @@
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-![Cassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white)
+
 
 ### 🌐 Web Technologies
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -116,7 +116,7 @@
           <a href="https://github.com/yourusername/tweetergoes_brrrrr">
           </a>
           <p>Twitter analytics tool with OpenAI integration</p>
-          <p><strong>Tech:</strong> Python, Tweepy, OpenAI API, FFmpeg</p>
+          <p><strong>Tech:</strong> Python, Tweepy, OpenAI API</p>
           <p><strong>Features:</strong></p>
           <ul>
             <li>Hashtag-based tweet extraction</li>
@@ -131,7 +131,7 @@
           <a href="https://github.com/yourusername/flaskshopee">
           </a>
           <p>Multi-user e-commerce platform</p>
-          <p><strong>Tech:</strong> Flask, SQLAlchemy, Redis, Vue.js</p>
+          <p><strong>Tech:</strong> Flask, SQLAlchemy</p>
           <p><strong>Features:</strong></p>
           <ul>
             <li>Dual authentication system</li>
