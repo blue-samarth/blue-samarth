@@ -165,7 +165,9 @@
 
 ### 🎵 Vibing To:
 <div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31s7xrc5nmumh6ntupfdxctm324a&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing"/>
+  <a href="https://open.spotify.com/track/20JYu9LaN8M1bVjzymrPQj?si=AMIVRZDhS4KuBg4bBdhRzA">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31s7xrc5nmumh6ntupfdxctm324a&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing"/>
+  </a>
 </div>
 
 ---
