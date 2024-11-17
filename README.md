@@ -175,5 +175,5 @@ achievements = {
 
 ---
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A9FEF7&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!;Let's+build+something+amazing+together!+🚀" alt="Thanks" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A9FEF7&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!; Let's+build+something+amazing+together!+🚀" alt="Thanks" />
 </div>
