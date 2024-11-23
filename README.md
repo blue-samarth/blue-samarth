@@ -164,10 +164,12 @@ achievements = {
 
 # 💭 Daily Dev Quote
 <div align="center">
+  <!-- Primary Quote API -->
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" 
        alt="Random Dev Quote" 
-       onerror="this.onerror=null; this.src='https://github-readme-quotes.herokuapp.com/quote?theme=tokyonight&layout=default&animation=default';" />
+       onerror="this.onerror=null; this.src='https://raw.githubusercontent.com/lukePeavey/quotable/master/media/logo.png';" />
 </div>
+
 
 
 ### 🎵 Current Soundtrack:
