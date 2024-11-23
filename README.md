@@ -164,8 +164,11 @@ achievements = {
 
 # 💭 Daily Dev Quote
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" 
+       alt="Random Dev Quote" 
+       onerror="this.onerror=null; this.src='https://github-readme-quotes.herokuapp.com/quote?theme=tokyonight&layout=default&animation=default';" />
 </div>
+
 
 ### 🎵 Current Soundtrack:
 <div align="center">
