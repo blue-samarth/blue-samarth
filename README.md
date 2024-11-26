@@ -102,6 +102,8 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=blue-samarth&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=blue-samarth&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=blue-samarth&layout=compact&langs_count=8&theme=nightowl" alt="Samarth's Top Languages"/>
+
 </div>
 
 
