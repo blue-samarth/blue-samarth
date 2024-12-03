@@ -163,7 +163,7 @@ achievements = {
 
 
 # 📈 Contribution Saga
-[![Samarth's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=blue-samarth&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Samarth's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=blue-samarth&theme=tokyo-night)](https://github.com/blue-samarth/github-readme-activity-graph)
 
 # 💭 Daily Dev Quote
 <div align="center">
