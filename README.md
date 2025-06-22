@@ -73,17 +73,17 @@
 
 ### <div align="center">💻 Languages</div>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,go,rust,bash" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=python,java,js,cpp,go,bash" alt="Languages" />
 </div>
 
 ### <div align="center">🌐 Frontend & Backend</div>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,vue,html,css,tailwind,fastapi,flask,django,nodejs,express" alt="Frontend & Backend" />
+  <img src="https://skillicons.dev/icons?i=vue,html,css,tailwind,fastapi,flask,django" alt="Frontend & Backend" />
 </div>
 
 ### <div align="center">🗄️ Databases & Storage</div>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis,sqlite,firebase" alt="Databases" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis,sqlite,mssql" alt="Databases" />
 </div>
 
 ### <div align="center">🤖 AI & Data Science</div>
@@ -102,7 +102,7 @@
 
 ### <div align="center">🔧 Tools & IDEs</div>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,pycharm,git,postman,figma,linux,ubuntu" alt="Tools & IDEs" />
+  <img src="https://skillicons.dev/icons?i=vscode,pycharm,git,postman,linux,ubuntu" alt="Tools & IDEs" />
 </div>
 
 ---
