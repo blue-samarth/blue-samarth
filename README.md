@@ -14,10 +14,14 @@
 
 # 🚀 Navigating the Tech Universe
 
-<div align="left">
-  <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<div align="center">
+  <table border="0" cellspacing="0" cellpadding="0">
+    <tr>
+      <td width="50%" valign="top">
+        <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" alt="Coding Animation"/>
+      </td>
+      <td width="50%" valign="top">
 
-  ### 👨‍🎓 Academic Journey
   ```python
   class SamarthSharma:
       def __init__(self):
@@ -28,13 +32,6 @@
           self.passions: list[str] = ["ML", "System Design", "Backend Dev"]
           self.current_focus: str = "Building scalable AI solutions"
   ```
-
-  ### 💡 Expertise & Skills
-  - 🧠 **Machine Learning**: Deep Learning, NLP, Computer Vision
-  - 🛠️ **DevOps & MLOps**: Docker, CI/CD, Model Deployment
-  - 🏗️ **System Design**: Microservices, APIs, Database Architecture
-  - 🐍 **Backend Development**: Python, FastAPI, Flask, Django
-
   ### ⚡ Beyond Code
   ```python
   Samarths_Life = {
@@ -44,9 +41,20 @@
     motto: "Learn. Build. Share. Repeat! 🔄"
   };
   ```
+<br clear="both"/>
+
+</td>
+    </tr>
+  </table>
 </div>
 
-<br clear="both"/>
+  ### 💡 Expertise & Skills
+  - 🧠 **Machine Learning**: Deep Learning, NLP, Computer Vision
+  - 🛠️ **DevOps & MLOps**: Docker, CI/CD, Model Deployment
+  - 🏗️ **System Design**: Microservices, APIs, Database Architecture
+  - 🐍 **Backend Development**: Python, FastAPI, Flask, Django
+
+
 
 # 🌐 Let's Connect & Collaborate
 
@@ -61,65 +69,60 @@
   
 </div>
 
-# 🛠️ Tech Arsenal & Tools
+## <div align="center">🛠️ Tech Stack & Arsenal</div>
 
+### <div align="center">💻 Languages</div>
 <div align="center">
-
-### 💻 Programming Languages
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
-### 🗄️ Databases & Storage
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MsSQL](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-
-### 🌐 Web Development
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-
-### 🤖 AI & Machine Learning
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-
-### ☁️ DevOps & Cloud
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![GCP](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,go,rust,bash" alt="Languages" />
 </div>
 
-# 📊 GitHub Analytics & Performance
+### <div align="center">🌐 Frontend & Backend</div>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,vue,html,css,tailwind,fastapi,flask,django,nodejs,express" alt="Frontend & Backend" />
+</div>
+
+### <div align="center">🗄️ Databases & Storage</div>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis,sqlite,firebase" alt="Databases" />
+</div>
+
+### <div align="center">🤖 AI & Data Science</div>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" alt="AI & ML" />
+  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
+  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly"/>
+</div>
+
+### <div align="center">☁️ DevOps & Cloud</div>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,azure,terraform,jenkins,github" alt="DevOps & Cloud" />
+</div>
+
+### <div align="center">🔧 Tools & IDEs</div>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,pycharm,git,postman,figma,linux,ubuntu" alt="Tools & IDEs" />
+</div>
+
+---
+
+## <div align="center">📊 GitHub Analytics</div>
 
 <div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=blue-samarth&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" />
-      </td>
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blue-samarth&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
-  <div align="center">
-    <img src="https://streak-stats.demolab.com/?user=blue-samarth&theme=dark&hide_border=true&card_width=500" alt="GitHub Streak Stats" />
-  </div>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=blue-samarth&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=blue-samarth&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
+
+<div align="center">
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blue-samarth&layout=compact&theme=radical&hide_border=true&langs_count=12" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=blue-samarth&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
+</div>
+
+---
 # 🏗️ Featured Projects
 
 <div align="center">
@@ -199,34 +202,35 @@
 
 </div>
 
-# 💭 Inspiration Corner
+## <div align="center">🌟 Inspiration & Philosophy</div>
 
 <div align="center">
-  
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" alt="Dev Quote" />
-  
-  ### 🎯 Personal Philosophy
-  *"Code is not just about solving problems; it's about creating possibilities that didn't exist before."*
-  
-  ### 🌟 Current Focus
-  ```yaml
-  learning:
-    - Advanced MLOps practices
-    - Distributed systems design
-    - Cloud-native architectures
-  
-  building:
-    - AI-powered applications
-    - Scalable backend systems
-    - Open source tools
-  
-  sharing:
-    - Technical blog posts
-    - Code tutorials
-    - Community mentorship
-  ```
-
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="150" alt="Philosophy"/>
+        <br/><strong>💭 Code Philosophy</strong>
+        <br/><em>"Write code that tells a story, not just solves a problem"</em>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="150" alt="Learning"/>
+        <br/><strong>📚 Learning Mindset</strong>
+        <br/><em>"Every bug is a lesson, every feature is growth"</em>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="150" alt="Innovation"/>
+        <br/><strong>🚀 Innovation Drive</strong>
+        <br/><em>"Build not just for today, but for tomorrow"</em>
+      </td>
+    </tr>
+  </table>
 </div>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true" alt="Random Dev Quote" />
+</div>
+
+---
   
 ### 🚀 Ready to Build Something Amazing Together?
 
