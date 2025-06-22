@@ -3,8 +3,9 @@
 </div>
 
 <div align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{blue-samarth}1212%2Fhit-counter" alt="Profile Views"/>
   <img src="https://komarev.com/ghpvc/?username=blue-samarth&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/blue-samarth?label=Followers&style=social" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/blue-samarth?label=Stars&style=social" alt="GitHub Stars" />
 </div>
 
 <div align="center">
@@ -24,31 +25,31 @@
               "B.Tech": "IT @ GGSIPU",
               "B.Sc": "Data Science @ IIT"
           }
-          self.passions = ["ML", "System Design", "Backend Dev"]
+          self.passions: list[str] = ["ML", "System Design", "Backend Dev"]
+          self.current_focus: str = "Building scalable AI solutions"
   ```
 
-  ### 🔭 Current Missions
-  - 🐦 Building a Twitter Analytics Platform with AI integration
-  - 🛍️ Developing an ML-powered E-commerce System
-  - 🚀 Exploring MLOps & Advanced System Architecture
+  ### 💡 Expertise & Skills
+  - 🧠 **Machine Learning**: Deep Learning, NLP, Computer Vision
+  - 🛠️ **DevOps & MLOps**: Docker, CI/CD, Model Deployment
+  - 🏗️ **System Design**: Microservices, APIs, Database Architecture
+  - 🐍 **Backend Development**: Python, FastAPI, Flask, Django
 
-  ### 💡 Knowledge Arsenal
-  - 🧠 Advanced Machine Learning Algorithms
-  - 🛠️ MLOps & DevOps Practices
-  - 🏗️ System Design Patterns
-  - 🐍 Python Development Mastery
-
-  ### ⚡ Fun Facts
-  ```javascript
-  const funFacts = {
-    hobbies: ["Chess ♟️", "Baking 🍪", "Coding 💻"],
-    passions: ["Problem Solving", "Open Source", "Innovation"],
-    motto: "Code, Create, Innovate! 🚀"
+  ### ⚡ Beyond Code
+  ```python
+  Samarths_Life = {
+    interests: ["Chess ♟️", "Baking 🍪", "Tech Innovation 💡"],
+    philosophy: "Code with purpose, build with passion",
+    goals: ["Contribute to AI advancement", "Mentor aspiring developers"],
+    motto: "Learn. Build. Share. Repeat! 🔄"
   };
   ```
 </div>
 
-# 🌐 Digital Hangouts
+<br clear="both"/>
+
+# 🌐 Let's Connect & Collaborate
+
 <div align="center">
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/samarth-sharma-38abb9249)
@@ -60,87 +61,113 @@
   
 </div>
 
-# 🛠️ Tech Arsenal
+# 🛠️ Tech Arsenal & Tools
 
 <div align="center">
 
-### 🔠 Code Warriors
-[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://docs.python.org/3/)
-[![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)](https://docs.oracle.com/en/java/)
-[![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://devdocs.io/cpp/)
-[![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.gnu.org/savannah-checkouts/gnu/bash/manual/bash.html)
+### 💻 Programming Languages
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-### 🗄️ Data Fortresses
-[![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://dev.mysql.com/doc/)
-[![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/docs/)
-[![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/docs/)
-[![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)](https://redis.io/docs/latest/)
+### 🗄️ Databases & Storage
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MsSQL](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 
-### 🌐 Web Warriors
+### 🌐 Web Development
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 
-[![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/en/stable/)
-[![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)](https://fastapi.tiangolo.com/)
-[![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)](https://docs.djangoproject.com/en/5.1/)
-[![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)](https://vuejs.org/guide/introduction.html)
+### 🤖 AI & Machine Learning
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 
-### 🤖 AI Arsenal
-[![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)](https://pytorch.org/docs/stable/index.html)
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)](https://www.tensorflow.org/api_docs)
-[![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/stable/)
-[![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)](https://keras.io/)
-
-### 🛠️ DevOps Artillery
-[![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](https://docs.docker.com/)
-[![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)](https://www.jenkins.io/doc/)
-[![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)](https://docs.github.com/en/actions)
-[![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/en-us/azure/?product=popular)
+### ☁️ DevOps & Cloud
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![GCP](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 </div>
 
-# 📊 GitHub Chronicles
+# 📊 GitHub Analytics & Performance
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=blue-samarth&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=blue-samarth&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=blue-samarth&layout=compact&langs_count=8&theme=nightowl" alt="Samarth's Top Languages"/>
-
+  <table>
+    <tr>
+      <td width="50%">
+        <img src="https://github-readme-stats.vercel.app/api?username=blue-samarth&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" />
+      </td>
+      <td width="50%">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blue-samarth&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
+  <div align="center">
+    <img src="https://streak-stats.demolab.com/?user=blue-samarth&theme=dark&hide_border=true&card_width=500" alt="GitHub Streak Stats" />
+  </div>
 </div>
-
-
-# 🏗️ Project Showcase
+# 🏗️ Featured Projects
 
 <div align="center">
   <table>
     <tr>
       <td width="50%">
         <h3 align="center">🐦 TweeterGoes_Brrrrr</h3>
+        <div align="center">
+          <a href="https://github.com/blue-samarth/TweeterGoes_Brrrrr">
+            <img src="https://img.shields.io/badge/View%20Project-FF6B6B?style=for-the-badge&logo=github&logoColor=white"/>
+          </a>
+        </div>
         <p align="center">
           <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
           <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
+          <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
         </p>
         <div align="center">
-          <p>🔍 Twitter analytics powerhouse with AI brain</p>
-          <p><strong>Key Features:</strong></p>
-          <ul align="left">
-            <li>🎯 Smart hashtag analysis</li>
-            <li>🤖 AI-powered content summaries</li>
-            <li>🎬 Auto video generation</li>
+          <p>🔍 <strong>AI-Powered Twitter Analytics Platform</strong></p>
+          <p><em>Transform social media data into actionable insights</em></p>
+          <ul align="left" style="list-style-type: none;">
+            <li>🎯 Intelligent hashtag trend analysis</li>
+            <li>🤖 GPT-powered content summarization</li>
+            <li>🎬 Automated video content generation</li>
+            <li>📊 Real-time sentiment analysis</li>
           </ul>
         </div>
       </td>
       <td width="50%">
         <h3 align="center">🛍️ FlaskShopee</h3>
+        <div align="center">
+          <a href="https://github.com/blue-samarth/FlaskShopee">
+            <img src="https://img.shields.io/badge/View%20Project-4ECDC4?style=for-the-badge&logo=github&logoColor=white"/>
+          </a>
+        </div>
         <p align="center">
           <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
-          <img src="https://img.shields.io/badge/SQLAlchemy-FF4154?style=flat-square&logo=python&logoColor=white"/>
+          <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white"/>
+          <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
         </p>
         <div align="center">
-          <p>🚀 Next-gen e-commerce platform</p>
-          <p><strong>Key Features:</strong></p>
-          <ul align="left">
-            <li>🔐 Advanced authentication</li>
-            <li>📊 Real-time inventory</li>
-            <li>📈 Analytics dashboard</li>
+          <p>🚀 <strong>Modern E-commerce Platform</strong></p>
+          <p><em>Full-stack solution with ML recommendations</em></p>
+          <ul align="left" style="list-style-type: none;">
+            <li>🔐 JWT-based secure authentication</li>
+            <li>📊 Advanced analytics dashboard</li>
+            <li>🤖 ML-powered product recommendations</li>
+            <li>📱 Responsive mobile-first design</li>
           </ul>
         </div>
       </td>
@@ -148,41 +175,66 @@
   </table>
 </div>
 
-# 🏆 Trophy Room
+# 🏆 Achievements & Recognition
+
 <div align="center">
   
-### 🎯 Competitive Victories
-```python
-achievements = {
-    "CodeHive Hackathon": "🥉 Bronze Medal",
-    "Datanest 4.0": "🏆 Team Nemesis Finalist"
-}
-```
+### 🎯 Competitive Programming & Hackathons
+  
+| 🏆 Achievement | 🏅 Position | 📅 Year | 🎪 Event |
+|---|---|---|---|
+| **Bronze Medal** | 🥉 3rd Place | 2024 | CodeHive Hackathon |
+| **Team Finalist** | 🏆 Top 10 | 2024 | Datanest 4.0 - Team Nemesis |
+
+### 📈 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=blue-samarth&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
+# 📈 Contribution Activity
 
-# 📈 Contribution Saga
-[![Samarth's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=blue-samarth&theme=tokyo-night)](https://github.com/blue-samarth/github-readme-activity-graph)
-
-# 💭 Daily Dev Quote
 <div align="center">
-  <!-- Primary Quote API -->
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" 
-       alt="Random Dev Quote" 
-       onerror="this.onerror=null; this.src='https://raw.githubusercontent.com/lukePeavey/quotable/master/media/logo.png';" />
+  
+[![Samarth's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=blue-samarth&theme=tokyo-night&hide_border=true)](https://github.com/blue-samarth)
+
 </div>
 
+# 💭 Inspiration Corner
 
-
-### 🎵 Current Soundtrack:
 <div align="center">
-  <a href="https://open.spotify.com/track/20JYu9LaN8M1bVjzymrPQj?si=AMIVRZDhS4KuBg4bBdhRzA">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31s7xrc5nmumh6ntupfdxctm324a&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing"/>
-  </a>
+  
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" alt="Dev Quote" />
+  
+  ### 🎯 Personal Philosophy
+  *"Code is not just about solving problems; it's about creating possibilities that didn't exist before."*
+  
+  ### 🌟 Current Focus
+  ```yaml
+  learning:
+    - Advanced MLOps practices
+    - Distributed systems design
+    - Cloud-native architectures
+  
+  building:
+    - AI-powered applications
+    - Scalable backend systems
+    - Open source tools
+  
+  sharing:
+    - Technical blog posts
+    - Code tutorials
+    - Community mentorship
+  ```
+
 </div>
+  
+### 🚀 Ready to Build Something Amazing Together?
 
----
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A9FEF7&center=true&vCenter=true&width=535&lines=Thanks+for+visiting!;Let%27s+build+something+amazing+together!+🚀" alt="Thanks" />
+**Let's connect and create the future, one line of code at a time!**
+
+[![Email Me](https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samarth38work@gmail.com)
+[![Schedule a Call](https://img.shields.io/badge/Schedule%20Call-4285F4?style=for-the-badge&logo=google-calendar&logoColor=white)](https://calendly.com/samarth38work)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer Wave"/>
+
 </div>
